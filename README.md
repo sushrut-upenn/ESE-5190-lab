@@ -3,7 +3,7 @@ Lab 1: Sushrut Salil Thakur worked with Juilee Samir Kotnis
 
 Proximity - 
 
-The components used for this experiment are RP2040 microcontroller and APDS9960 sensor board. The aim of this experiment was to print the proximity being sensed by the APDS9960 sensor board on our monitor. With respect to the attached video and GIF, it can be seen that the APDS9960 sensor board measures the distance of the hand from the sensor with 8 bit resolution. When the hand is very close to the sensor, proximity reading is observed to be 255 which is the maximum ADC count. As the hand moves away from the sensor, the proximity reading decreases.
+The components used for this experiment are RP2040 microcontroller and APDS9960 sensor board. The aim of this experiment was to print the proximity being sensed by the APDS9960 sensor board on our monitor. With respect to the attached GIF, it can be seen that the APDS9960 sensor board measures the distance of the hand from the sensor with 8 bit resolution. When the hand is very close to the sensor, proximity reading is observed to be 255 which is the maximum ADC count. As the hand moves away from the sensor, the proximity reading decreases.
 
 ![](https://github.com/sushrut-upenn/ESE-5190-lab/blob/main/proximity.gif)
 
