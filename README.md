@@ -1,3 +1,9 @@
+University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 1
+
+(TODO) SUSHRUT THAKUR
+   
+Tested on: (TODO) Lenovo Legion 5 AMD Ryzen 7 (15-inch, 2022), Windows 11
+
 Lab 1: Sushrut Salil Thakur worked with Juilee Samir Kotnis 
 # ESE-5190-lab
 
