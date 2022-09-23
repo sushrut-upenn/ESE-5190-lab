@@ -1,3 +1,4 @@
+Lab 1: Sushrut Salil Thakur worked with Juilee Samir Kotnis 
 # ESE-5190-lab
 
 Proximity - 
